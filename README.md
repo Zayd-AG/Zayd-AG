@@ -5,7 +5,7 @@
 ### Software Engineering · Machine Learning · AI Engineering
 
 I'm a Computer Science student focused on **software engineering, machine learning, and AI systems**.  
-I enjoy building end-to-end products that combine ML/AI with practical backend and frontend engineering.
+I enjoy building complete applications that combine ML/AI with practical backend and frontend engineering.
 
 Currently interested in **Software Engineering, Machine Learning, and AI Engineering** opportunities.
 
