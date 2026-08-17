@@ -34,7 +34,7 @@ AI-powered asset validation system for automatically detecting issues with game 
 
 **Tech:** `Python` · `Blender API` · `Luau` · `RAG` · `Claude` · `Roblox API`
 
-[View Repository](ADD_REPOSITORY_LINK)
+[View Repository](https://github.com/Zayd-AG/asset-validation-plugin)
 
 ---
 
