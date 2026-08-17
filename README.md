@@ -32,7 +32,7 @@ AI-powered asset validation system for automatically detecting issues with game 
 - Detects geometry, texture, rigging, and compatibility issues
 - Automated validation and publishing workflows
 
-**Tech:** `Python` · `Blender API` · `Luau` · `RAG` · `Claude` · `Roblox API`
+**Tech:** `Python` · `Blender API` · `Luau` · `RAG` · `Claude`
 
 [View Repository](https://github.com/Zayd-AG/asset-validation-plugin)
 
