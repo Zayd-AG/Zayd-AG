@@ -24,7 +24,7 @@ Currently interested in **Software Engineering, Machine Learning, and AI Enginee
 
 ### Feedback Lens — ML Feedback Analyzer
 
-Machine learning system that analyzes App Store and Google Play reviews to identify recurring customer issues and turn user feedback into actionable product insights.
+Machine learning system that scrapes and analyzes App Store and Google Play reviews to identify recurring customer issues and turn user feedback into actionable product insights.
 
 - Fine-tuned **Qwen2.5-1.5B** with LoRA and PyTorch on 2,400 labeled reviews
 - Built a review clustering pipeline for identifying recurring product issues
@@ -34,6 +34,21 @@ Machine learning system that analyzes App Store and Google Play reviews to ident
 **Tech:** `Python` · `PyTorch` · `FastAPI` · `React` · `TypeScript` · `PostgreSQL` · `AWS`
 
 [View Repository](https://github.com/Zayd-AG/feedback-lens)
+
+<br>
+
+### Careerix — AI-Powered Job Search Web App
+
+Gamified job search platform combining job discovery, resume optimization, interview preparation, and application tracking.
+
+- Built a full-stack **React + FastAPI** application
+- Developed versioned resume and job pipeline systems with PostgreSQL
+- Integrated AI-assisted ATS matching, resume tailoring, and interview coaching
+- Containerized with Docker and deployed services on **Google Cloud Platform**
+
+**Tech:** `React` · `TypeScript` · `Python` · `FastAPI` · `PostgreSQL` · `Docker` · `GCP`
+
+[Live Site](https://careerix.app)
 
 <br>
 
@@ -52,20 +67,6 @@ AI-powered asset validation system for automatically detecting issues with game 
 
 <br>
 
-### Careerix — AI-Powered Job Search
-
-Gamified job search platform combining job discovery, resume optimization, interview preparation, and application tracking.
-
-- Built a full-stack **React + FastAPI** application
-- Developed versioned resume and job pipeline systems with PostgreSQL
-- Integrated AI-assisted ATS matching, resume tailoring, and interview coaching
-- Containerized with Docker and deployed services on **Google Cloud Platform**
-
-**Tech:** `React` · `TypeScript` · `Python` · `FastAPI` · `PostgreSQL` · `Docker` · `GCP`
-
-[Live Site](https://careerix.app)
-
-<br>
 
 ---
 
