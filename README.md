@@ -2,7 +2,7 @@
 
 # Hi, I'm Zayd
 
-### Software Engineering · Machine Learning · AI Engineering
+### Software Engineering · Machine Learning · AI Engineering · Game Development 
 
 I'm a Computer Science student focused on **software engineering, machine learning, and AI systems**.  
 I enjoy building complete applications that combine ML/AI with practical backend and frontend engineering.
